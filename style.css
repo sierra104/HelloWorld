@@ -4,7 +4,7 @@
 
 body,
 html {margin:0;
-      background: red;
+      background: blue;
       background-image: url("bg.jpg");
       background-size: contain;
       font-family: monospace;
