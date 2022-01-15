@@ -7,7 +7,7 @@ html {margin:0;
       background: blue;
       background-image: url("bg.jpg");
       background-size: contain;
-      font-family:"Audiowide", sans-serif;
+      font-family:monospace;
       letter-spacing: 0.65px;
       font-size: 15px;
       color:lime;
